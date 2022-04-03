@@ -1,17 +1,14 @@
 ### 안녕하세요 👋
 ---
 
-아웃도어 및 피트니스 분야 서비스를 준비하고 있는 예비 스타트업 입니다.
-퍼스널 트레이닝을 홈트에 접목하고자 서비스를 기획하고 있고
-플러터를 이용해서 모바일앱을 만들고자 합니다.
-지금은 플러터 개발 교육 과정에 참여하고 있습니다
+아웃도어 액티비티와 피트니스 및 헬스케어 분야 온라인 서비스를 제공하는 스타트업 입니다.
+앱스토어에서 "카약투어" 검색해서 설치 후 이용 가능합니다
+관련 콘텐츠외 기능을 개선해 갈 계획입니다.
+많은 관심 부탁드립니다.
 
-- 🔭 저는 IT 회사 근무했고, 지금은 스타트업을 준비하고 있습니다
-- 🌱 지금은  IT 교육 과정에 참여하고 있어요
-- 👯 모바일 온라인 홈트 서비스와 운동 참여자의 자세를 코칭하기 위한 AI 기술을 공부하고 있어요
 - ⚡ 저와 저의 서비스에 궁금한 점이 있으시면 언제든 연락 주세요 
 
-**🌱 공부하고자 하는 분야 :**
+**🌱 개발 가능하거나 관심 분야들 :**
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
